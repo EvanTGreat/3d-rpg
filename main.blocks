@@ -1,0 +1,27 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="q#5hf1g/Yx*3R`2|F$D!">text list</variable><variable id="Rvgv_!x:,EY$PJ-dDYza">value</variable><variable id="vgTJH8PJY[@T^1+Q~_Q9">list</variable></variables><block type="pxt-on-start" id="vVVBJ+hiV5GX)|;{R5FU" x="94" y="39"><statement name="HANDLER"><block type="variables_set" id="]n^C-*]j0MKPEXO,sfn7"><field name="VAR" id="q#5hf1g/Yx*3R`2|F$D!">text list</field><value name="VALUE"><block type="lists_create_with" id="vh|]X=R@idrXOzZt?qFu" inline="false"><mutation items="7" horizontalafter="3"></mutation><value name="ADD0"><shadow type="text" id="z=y?C[VnXf5:GctUAuJh"><field name="TEXT">50 years,</field></shadow></value><value name="ADD1"><shadow type="text" id="N*T)Ap,N;n@y)O,D5c@t"><field name="TEXT">3 communities,</field></shadow></value><value name="ADD2"><shadow type="text" id="FOM+u_XrFi(]/mqf2tpG"><field name="TEXT">1 goal,</field></shadow></value><value name="ADD3"><shadow type="text" id="}zT=GQ$QL=W2LxUK}IGh"><field name="TEXT">be the best.</field></shadow></value><value name="ADD4"><shadow type="text" id="i^?5?f:[#hGG)u{`_f=,"><field name="TEXT">conquer the world-</field></shadow></value><value name="ADD5"><shadow type="text" id="+d5L+M1p6h;LJM]^gBt+"><field name="TEXT">are you ready for it</field></shadow></value><value name="ADD6"><shadow type="text" id="BLHsQX|AovHZoJOiT4lE"><field name="TEXT">-Taylor Swift</field></shadow></value></block></value><next><block type="game_dialog_set_frame" id="!L@UZma~+RmU5yrDTMEY"><value name="frame"><shadow type="dialog_image_picker" id="gy|^;VmR$6%}u!~q+JlS"><field name="img">img`
+eeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbb
+eeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeee
+`</field><data>{"commentRefs":[],"fieldData":{"img":"gy|^;VmR$6%}u!~q+JlS"}}</data></shadow></value></block></next></block></statement></block></xml>
