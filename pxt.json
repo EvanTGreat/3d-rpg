@@ -2,7 +2,9 @@
     "name": "3D RPG",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "carnival": "github:microsoft/arcade-carnival#v0.0.7"
     },
     "files": [
         "main.blocks",
